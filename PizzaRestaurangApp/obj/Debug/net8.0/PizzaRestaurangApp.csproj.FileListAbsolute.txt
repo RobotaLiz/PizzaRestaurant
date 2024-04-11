@@ -1,0 +1,14 @@
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/bin/Debug/net8.0/PizzaRestaurangApp
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/bin/Debug/net8.0/PizzaRestaurangApp.deps.json
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/bin/Debug/net8.0/PizzaRestaurangApp.runtimeconfig.json
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/bin/Debug/net8.0/PizzaRestaurangApp.dll
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/bin/Debug/net8.0/PizzaRestaurangApp.pdb
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.AssemblyInfoInputs.cache
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.AssemblyInfo.cs
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.csproj.CoreCompileInputs.cache
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.dll
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/refint/PizzaRestaurangApp.dll
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.pdb
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/PizzaRestaurangApp.genruntimeconfig.cache
+/Users/lizahjortling/Lia2/PizzaRestaurangApp/obj/Debug/net8.0/ref/PizzaRestaurangApp.dll
